@@ -1,0 +1,33 @@
+{
+  "name": "mcp-google-maps-places-scraper",
+  "displayName": "Google Maps Places Scraper",
+  "version": "1.0.0",
+  "description": "MCP server for Google Maps Places Scraper: search Google Maps and get one row per place.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-google-maps-places-scraper",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "google-maps",
+    "places",
+    "local-business",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "google-maps",
+    "places",
+    "local-business",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "mcpServers": ".mcp.json"
+}
