@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-google-maps-places-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Google Maps Places Scraper: search Google Maps and get one row per place.",
   "author": {
     "name": "Mamba Labs"
